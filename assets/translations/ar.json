@@ -1,0 +1,12 @@
+{
+    "add_bike_title": "اضافة دراجه",
+    "add_bike_btn": "اضافة الدراجه",
+    "speed": "كم / ساعة",
+    "speed_meter": "متر / ثانيه",
+    "max_speed": "السرعة القصوي",
+    "rpm": "لفة بدال / دقيقة",
+    "ratio": "Gear ratio",
+    "shifter_name_front": "ترس امامي",
+    "shifter_name_rear": "ترس خلفي",
+    "gear_teath": "عدد السنون: {}"
+}
